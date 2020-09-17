@@ -1,0 +1,22 @@
+@import "variable";
+@import "mixin";
+
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "../../../node_modules/animate.css";
+@import "../persianFont/iransans/css/fontiran.css";
+@import '../../../node_modules/antd/dist/antd.css';
+@import "./publicComponents";
+@import "./public";
+@import "./input";
+@import "./checkMark";
+@import "./switch";
+@import "./checkbox";
+@import "./menu";
+@import "./loadingIcon";
+@import "./message";
+@import "./404";
+
+
+/*------------------------------------------------login*/
+@import "./login";
+

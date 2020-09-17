@@ -1,0 +1,29 @@
+.ant-message-custom-content{
+  border-radius: 5px;
+  padding:14px 20px ;
+}
+.anticon.anticon-close-circle,.anticon.anticon-check-circle{
+  color:#fff !important;
+  top: -3px !important;
+}
+.ant-message-custom-content.ant-message-success {
+  background-color: #00c600 !important;
+  color:#fff !important;
+}
+
+.ant-message-custom-content.ant-message-error {
+  color:#fff !important;
+  background-color: #ff5b64 !important;
+}
+
+.ant-message {
+  line-height: 2rem !important;
+}
+
+.ant-message-notice-content {
+  border-radius: 5px;
+  padding: 0 !important;
+}
+/*.ant-collapse-arrow{
+  color:$colrMainDark !important;
+}*/

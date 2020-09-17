@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff0724d-89da-4459-a72b-bafc14cf4828" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="baryar-web" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hdcTQFNC5qeXT7orWbxEkCMytx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:/Users/moj/rezaei/reactDevelop/baryar-web/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="C:\Users\samira\AppData\Local\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moj\rezaei\reactDevelop\baryar\baryar-web\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moj\rezaei\reactDevelop\baryar\baryar-web\src\components\terminal\storeRoom" />
+      <recent name="C:\Users\moj\rezaei\reactDevelop\baryar\baryar-web\src\components\service\relief" />
+      <recent name="C:\Users\moj\rezaei\reactDevelop\baryar\baryar-web\src\components\magazine\news" />
+      <recent name="C:\Users\moj\rezaei\reactDevelop\baryar\baryar-web\src\components\terminal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff0724d-89da-4459-a72b-bafc14cf4828" name="Default Changelist" comment="" />
+      <created>1591102417705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591102417705</updated>
+      <workItem from="1591102419282" duration="2261000" />
+      <workItem from="1591417274040" duration="5586000" />
+      <workItem from="1591619235946" duration="5221000" />
+      <workItem from="1591678448379" duration="25186000" />
+      <workItem from="1591763560056" duration="26094000" />
+      <workItem from="1592023749864" duration="28774000" />
+      <workItem from="1592109244634" duration="1245000" />
+      <workItem from="1592111065368" duration="12000" />
+      <workItem from="1592111091624" duration="5360000" />
+      <workItem from="1592117553619" duration="19058000" />
+      <workItem from="1592196066364" duration="27873000" />
+      <workItem from="1592283450710" duration="25510000" />
+      <workItem from="1592628495394" duration="23050000" />
+      <workItem from="1592714744075" duration="21207000" />
+      <workItem from="1592799986374" duration="25886000" />
+      <workItem from="1592886701330" duration="18256000" />
+      <workItem from="1592910386623" duration="1358000" />
+      <workItem from="1592911763225" duration="7335000" />
+      <workItem from="1592972951191" duration="10888000" />
+      <workItem from="1592988722709" duration="14477000" />
+      <workItem from="1593232530559" duration="26488000" />
+      <workItem from="1593318508472" duration="9012000" />
+      <workItem from="1593328904660" duration="11200000" />
+      <workItem from="1593405259439" duration="12478000" />
+      <workItem from="1593421050992" duration="14165000" />
+      <workItem from="1593491457005" duration="3488000" />
+      <workItem from="1593495672605" duration="10206000" />
+      <workItem from="1593508382142" duration="14373000" />
+      <workItem from="1593578256962" duration="18075000" />
+      <workItem from="1593838096140" duration="16333000" />
+      <workItem from="1593926248662" duration="22640000" />
+      <workItem from="1594009963051" duration="38000" />
+      <workItem from="1594010013583" duration="24307000" />
+      <workItem from="1594096904177" duration="2042000" />
+      <workItem from="1594443610196" duration="21402000" />
+      <workItem from="1594529647604" duration="19192000" />
+      <workItem from="1594615600798" duration="22361000" />
+      <workItem from="1594702019545" duration="23020000" />
+      <workItem from="1594788920117" duration="15766000" />
+      <workItem from="1595048538920" duration="1784000" />
+      <workItem from="1595134259536" duration="2395000" />
+      <workItem from="1595221516771" duration="8553000" />
+      <workItem from="1595306339250" duration="8408000" />
+      <workItem from="1595392780511" duration="6550000" />
+      <workItem from="1595415061212" duration="6988000" />
+      <workItem from="1595652877760" duration="10449000" />
+      <workItem from="1595740734830" duration="19755000" />
+      <workItem from="1595825808026" duration="2052000" />
+      <workItem from="1595830254715" duration="786000" />
+      <workItem from="1595831648713" duration="8535000" />
+      <workItem from="1595912273383" duration="2940000" />
+      <workItem from="1595929107215" duration="8248000" />
+      <workItem from="1596000205653" duration="618000" />
+      <workItem from="1596002265610" duration="5453000" />
+      <workItem from="1596257493264" duration="6759000" />
+      <workItem from="1596343608759" duration="21601000" />
+      <workItem from="1596431561580" duration="2922000" />
+      <workItem from="1596434529928" duration="7737000" />
+      <workItem from="1596445674872" duration="12461000" />
+      <workItem from="1596516849562" duration="9258000" />
+      <workItem from="1596603375915" duration="16454000" />
+      <workItem from="1596948591154" duration="1152000" />
+      <workItem from="1596950879612" duration="950000" />
+      <workItem from="1597039783523" duration="165000" />
+      <workItem from="1597061826396" duration="1898000" />
+      <workItem from="1597127892589" duration="255000" />
+      <workItem from="1597128492061" duration="409000" />
+      <workItem from="1597138410202" duration="2046000" />
+      <workItem from="1597486805875" duration="10168000" />
+      <workItem from="1597554438940" duration="6701000" />
+      <workItem from="1597640138887" duration="1550000" />
+      <workItem from="1597650955368" duration="3597000" />
+      <workItem from="1597664607428" duration="608000" />
+      <workItem from="1597727153398" duration="104000" />
+      <workItem from="1597727950837" duration="8978000" />
+      <workItem from="1597813042826" duration="435000" />
+      <workItem from="1597814790553" duration="2000" />
+      <workItem from="1597814807162" duration="4030000" />
+      <workItem from="1598076691033" duration="10927000" />
+      <workItem from="1598157926648" duration="201000" />
+      <workItem from="1598158139257" duration="8324000" />
+      <workItem from="1598245753279" duration="1224000" />
+      <workItem from="1598264358950" duration="1880000" />
+      <workItem from="1598339582896" duration="7194000" />
+      <workItem from="1598418352121" duration="617000" />
+      <workItem from="1598420184204" duration="8555000" />
+      <workItem from="1598851306630" duration="3819000" />
+      <workItem from="1598861817894" duration="2764000" />
+      <workItem from="1598944461654" duration="1852000" />
+      <workItem from="1599033052813" duration="1912000" />
+      <workItem from="1599045361376" duration="5967000" />
+      <workItem from="1599307255027" duration="6197000" />
+      <workItem from="1599376956903" duration="2481000" />
+      <workItem from="1599628779577" duration="3502000" />
+      <workItem from="1599644005159" duration="599000" />
+      <workItem from="1599644652168" duration="4033000" />
+      <workItem from="1599903209249" duration="2651000" />
+      <workItem from="1599974986407" duration="7050000" />
+      <workItem from="1599989053728" duration="10618000" />
+      <workItem from="1600060240212" duration="6546000" />
+      <workItem from="1600145296385" duration="4600000" />
+      <workItem from="1600231935298" duration="2002000" />
+      <workItem from="1600240196737" duration="984000" />
+      <workItem from="1600344419761" duration="10251000" />
+      <workItem from="1600354751881" duration="4970000" />
+    </task>
+    <task id="LOCAL-00001" summary="new change">
+      <created>1597494438031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597494438031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0.5.0 version">
+      <created>1597572423967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597572423967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new change" />
+    <MESSAGE value="0.5.0 version" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.5.0 version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1600357185680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600357185680" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/profile/user.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/terminal/proposal/ready.js</url>
+          <line>117</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/service/relief/person.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/terminal/cargoDetail.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/terminal/storeRoom/VehicleSelectorFilter.js</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/terminal/companyCard.js</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/magazine/action.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/login/verify.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
